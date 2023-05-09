@@ -12,8 +12,16 @@ Aşağıdaki soruları verilen matrisler kullanarak cevaplayınız. Algoritmanı
  */
 public class Q01_FindDifferentElements {
     public static void main(String[] args) {
-        int[][] arrA = {{3, 6, 2}, {1, 5, 6}, {2, 1, 5}};
-        int[][] arrB = {{1, 1, 2}, {3, 3, 3}, {2, 2, 1}};
+        int[][] arrA = {
+                {3, 6, 2},
+                {1, 5, 6},
+                {2, 1, 5}
+        };
+        int[][] arrB = {
+                {1, 1, 2},
+                {3, 3, 3},
+                {2, 2, 1}
+        };
         System.out.println(solution(arrA, arrB));
     }
 
