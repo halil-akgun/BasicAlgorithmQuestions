@@ -1,4 +1,3 @@
-
 /*
 Aşağıdaki soruları verilen matrisler kullanarak cevaplayınız. Algoritmanın akış diyagramını çiziniz.
 
